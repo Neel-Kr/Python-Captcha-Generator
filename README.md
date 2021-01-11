@@ -14,3 +14,5 @@ You can download these modules using the command given below in your command pro
 </b></p>
 <h1 align="center"><img src="https://user-images.githubusercontent.com/75318831/104194493-6ba02280-5447-11eb-9d71-4baa18dce00f.png" width="40" height="40"> Demonstration </h1>
 <img src="https://user-images.githubusercontent.com/75318831/104127222-df2e2b00-5386-11eb-8504-b9441514f0c3.png" alt="demo">
+<h3 align="center"> Made in Love with India! <br> <img src="https://user-images.githubusercontent.com/75318831/104192059-54136a80-5444-11eb-98f0-4acbb45c2e13.png" alt="audio" width="60" height="50"> <img src="https://user-images.githubusercontent.com/75318831/104192450-d9971a80-5444-11eb-85b8-e1644a046123.png" alt="audio" width="50" height="50"> <br> Thank You!!! <br> Copyright (c) Neel Kumar <br> MIT License
+</h3>
